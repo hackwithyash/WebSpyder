@@ -1,0 +1,8 @@
+beautifulsoup4
+dnspython
+pyfiglet
+requests
+tqdm
+Wappalyzer
+python-whois
+pyOpenSSL
